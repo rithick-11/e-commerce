@@ -1,0 +1,9 @@
+.bg-login-form{
+    background-image: url("https://t3.ftcdn.net/jpg/02/27/21/56/360_F_227215665_8HbqJ2T9djgJU4mkLJJEmesp5XYhlUTk.jpg");
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
